@@ -4,11 +4,13 @@ import academy.devdojo.maratonajava.javacore.Ycolecoes.dominio.Manga;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.LinkedList;
 import java.util.List;
 
 public class IteratorTest01 {
     public static void main(String[] args) {
         List<Manga> mangas = new ArrayList<>(6);
+//        List<Manga> mangas = new LinkedList<>(); se eu quiser, também posso usar LinkedList
         mangas.add(new Manga(1L, "Dragon Ball Z", 19.9, 0));
         mangas.add(new Manga(2L, "Attack on titan", 11.20, 2));
         mangas.add(new Manga(4L, "Pokemon", 3.2, 0));
