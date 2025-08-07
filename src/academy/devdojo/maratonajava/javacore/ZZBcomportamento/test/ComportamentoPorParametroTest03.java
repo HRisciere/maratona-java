@@ -15,6 +15,9 @@ public class ComportamentoPorParametroTest03 {
         // então fica assim "nome da variável -> condição"
         // Predicate é uma interface que precisa passar uma "sub classe ( uma classe concreta ), que da o comportamento do teste, lambda é só uma sintaxe mais bonita para a classe anônima"
         // Classe anônima e lambda é praticamente a mesma coisa
+        // Para lambda funcionar a interface que eu estou trabalhando seja uma interface funcional
+        // Interface funcional é uma interface que eu tenho APENAS 1 MÉTODO ABSTRATO, eu posso ter outros métodos usando "default"
+
         List<Car> greenCars = filter(cars, car -> car.getColor().equals("green"));
         List<Car> redCars = filter(cars, car -> car.getColor().equals("red"));
         List<Car> yearBeforeCars = filter(cars, car -> car.getYear() < 2015);
