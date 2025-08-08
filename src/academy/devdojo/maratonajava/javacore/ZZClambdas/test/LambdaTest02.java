@@ -12,8 +12,14 @@ public class LambdaTest02 {
         //  list, parâmetro que vai receber a expressão, que é uma função Function <T, R> function)
         // Você pode passar um tipo como parâmetro e o retorno ser do mesmo tipo por exemplo (Passar String como parâmetro e o retorno ser uma String)
         List<String> strings = List.of("Vegeta", "Madara");
+
+        // Se a lambda chamar apenas 1 método você pode utilizar o Method Reference, no caso abaixo ele só chama 1 método que é o s.length(), então eu posso usar
         List<Integer> integers = map(strings, s -> s.length());
+        // List<Integer> integers = map(strings, String::length);
+
         List<String> map = map(strings, s -> s.toUpperCase());
+        // List<String> map = map(strings, String::toUpperCase);
+
         System.out.println(integers);
         System.out.println(map);
     }
