@@ -1,0 +1,366 @@
+2025-09-25 16:52:51 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 16:53:44 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 16:56:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 16:57:22 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 17:03:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 17:20:35 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 17:21:54 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 17:40:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 18:10:03 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - INFO
+2025-09-25 18:10:03 [main] WARN  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - WARN
+2025-09-25 18:10:03 [main] ERROR academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - ERROR
+2025-09-25 18:11:24 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - INFO
+2025-09-25 18:11:24 [main] WARN  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - WARN
+2025-09-25 18:11:24 [main] ERROR academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - ERROR
+2025-09-25 18:12:23 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - INFO
+2025-09-25 18:12:23 [main] WARN  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - WARN
+2025-09-25 18:12:23 [main] ERROR academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - ERROR
+2025-09-25 18:13:23 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - INFO
+2025-09-25 18:13:23 [main] WARN  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - WARN
+2025-09-25 18:13:23 [main] ERROR academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - ERROR
+2025-09-25 18:14:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 18:14:51 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Database rows affected 1
+2025-09-25 18:16:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected 1
+2025-09-25 18:17:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected '1'
+2025-09-25 18:27:52 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected '1'
+2025-09-25 18:33:25 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected '1'
+2025-09-25 18:35:29 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected '1'
+2025-09-25 18:35:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected '1'
+2025-09-25 18:35:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer in the database, rows affected '1'
+2025-09-25 19:09:41 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '4' from the database, rows affected '1'
+2025-09-25 19:21:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '6' from the database, rows affected '1'
+2025-09-25 19:21:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '7' from the database, rows affected '1'
+2025-09-25 19:21:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '8' from the database, rows affected '1'
+2025-09-25 19:21:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '9' from the database, rows affected '1'
+2025-09-25 19:21:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '10' from the database, rows affected '1'
+2025-09-25 19:21:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '11' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '12' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '13' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '14' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '15' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '16' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '17' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '18' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '19' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '20' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '21' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '22' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '23' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '24' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '25' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '26' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '27' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '28' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '29' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '30' from the database, rows affected '1'
+2025-09-25 19:21:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '31' from the database, rows affected '1'
+2025-09-25 19:22:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '5' from the database, rows affected '1'
+2025-10-14 15:56:15 [main] ERROR academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Error while trying to delete producer '5'
+java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:114)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:839)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:415)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:180)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at academy.devdojo.maratonajava.javacore.ZZIjdbc.conn.ConnectionFactory.getConnection(ConnectionFactory.java:13)
+	at academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository.delete(ProducerRepository.java:30)
+	at academy.devdojo.maratonajava.javacore.ZZIjdbc.service.ProducerService.delete(ProducerService.java:17)
+	at academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01.main(ConnectionFactoryTest01.java:12)
+2025-10-14 18:30:11 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Inserted producer 'Studio Deen' in the database, rows affected '1'
+2025-10-14 19:36:16 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleted producer '32' from the database, rows affected '1'
+2025-10-14 20:06:08 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Updated producer '1', rows affected '1'
+2025-10-17 19:08:02 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding all Producers 
+2025-10-17 19:08:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=1, name=MADHOUSE), Producer(id=2, name=NHK), Producer(id=3, name=Studio Deen)]'
+2025-10-17 19:31:57 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding all Producers 
+2025-10-17 19:31:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=1, name=MADHOUSE)]'
+2025-10-17 19:32:00 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding all Producers 
+2025-10-17 19:32:01 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=1, name=MADHOUSE)]'
+2025-10-17 19:53:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding all Producers 
+2025-10-17 19:53:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-17 19:53:54 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=1, name=MADHOUSE), Producer(id=2, name=NHK), Producer(id=3, name=Studio Deen)]'
+2025-10-19 11:57:30 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Showing Producer Metadata
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Columns count '2'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Table name 'producer'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column name 'id'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column size '10'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column type '4'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Table name 'producer'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column name 'name'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column size '255'
+2025-10-19 11:57:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column type '12'
+2025-10-19 12:08:57 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Showing Producer Metadata
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Columns count '2'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Table name 'producer'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column name 'id'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column size '10'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column type 'INT'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Table name 'producer'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column name 'name'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column size '255'
+2025-10-19 12:08:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Column type 'VARCHAR'
+2025-10-19 20:47:44 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Showing Driver Metadata
+2025-10-19 20:47:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Supports TYPE_FORWARD_ONLY
+2025-10-19 20:47:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Supports CONCUR_UPDATABLE
+2025-10-19 20:47:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Supports TYPE_SCROLL_INSENSITIVE
+2025-10-19 20:47:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Supports CONCUR_UPDATABLE
+2025-10-20 12:28:08 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 12:28:08 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:16:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:16:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:16:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:19:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:19:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:19:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:19:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:19:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:19:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:23:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:26:31 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is last? 'false'
+2025-10-20 14:29:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is last? 'false'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is first? 'true'
+2025-10-20 14:30:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is last? 'false'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is first? 'true'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - ----------------------
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is last? 'false'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is first? 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - ----------------------
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - After last row? 'true'
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:39:04 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is last? 'false'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is first? 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - ----------------------
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - After last row? 'true'
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:39:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '3'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - First row? 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row absolute 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '2'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row relative 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is last? 'false'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - is first? 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Row number '1'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Last row? 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - ----------------------
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - After last row? 'true'
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=3, name=Studio Deen)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=2, name=NHK)
+2025-10-20 14:41:47 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Producer(id=1, name=MADHOUSE)
+2025-10-20 17:29:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-20 17:32:44 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-20 17:32:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=3, name=Studio Deen)]'
+2025-10-20 17:36:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-20 17:36:22 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=3, name=STUDIO DEEN)]'
+2025-10-20 18:22:50 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-20 18:22:52 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[]'
+2025-10-20 18:38:16 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-20 18:38:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=34, name=A-1 pictures)]'
+2025-10-20 19:57:00 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-20 19:57:01 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Deleting 'A-1 pictures'
+2025-10-21 11:30:20 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 11:30:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 11:30:52 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 11:30:53 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[]'
+2025-10-21 11:33:21 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 11:33:22 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=1, name=MADHOUSE), Producer(id=2, name=NHK), Producer(id=3, name=STUDIO DEEN), Producer(id=33, name=Bones)]'
+2025-10-21 12:26:06 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:26:07 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[]'
+2025-10-21 12:28:50 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:28:51 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 12:29:09 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:29:10 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[]'
+2025-10-21 12:29:25 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:29:26 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 12:43:11 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:43:12 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 12:46:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:46:18 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 12:48:10 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 12:48:10 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 14:27:50 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-21 14:27:51 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-21 14:44:05 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Updated producer '1', rows affected '1'
+2025-10-21 14:44:40 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Updated producer '1', rows affected '1'
+2025-10-21 14:45:14 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Updated producer '1', rows affected '1'
+2025-10-21 14:45:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Updated producer '1', rows affected '1'
+2025-10-22 14:11:16 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-22 14:11:18 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=33, name=Bones)]'
+2025-10-22 14:11:37 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-22 14:11:37 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[]'
+2025-10-22 14:11:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Finding Producer by name
+2025-10-22 14:11:50 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01 - Producers found '[Producer(id=2, name=NHK)]'
+2025-10-22 15:06:22 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - [Producer(id=2, name=NHK)]
+2025-10-23 15:25:26 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - --------------------------
+2025-10-23 15:25:26 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - [Producer(id=1, name=madhouse), Producer(id=2, name=NHK), Producer(id=3, name=STUDIO DEEN), Producer(id=33, name=Bones)]
+2025-10-23 15:32:15 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - --------------------------
+2025-10-23 15:32:15 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - [Producer(id=1, name=madhouse), Producer(id=2, name=NHK), Producer(id=3, name=STUDIO DEEN), Producer(id=33, name=Bones)]
+2025-10-23 15:32:43 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - --------------------------
+2025-10-23 15:32:43 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - [Producer(id=1, name=MAD), Producer(id=2, name=NHK), Producer(id=3, name=STUDIO DEEN), Producer(id=33, name=Bones)]
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Command execute triggered
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Cursor moved
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Row inserted, updated or deleted
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Command execute triggered
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - --------------------------
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Command execute triggered
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Cursor moved
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Cursor moved
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Cursor moved
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Cursor moved
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.listener.CustomRowSetListener - Cursor moved
+2025-10-23 15:44:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest02 - [Producer(id=1, name=MAD), Producer(id=2, name=NHK), Producer(id=3, name=STUDIO DEEN), Producer(id=33, name=Bones)]
+2025-10-23 22:01:19 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Toei Animation'
+2025-10-23 22:01:19 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'White fox'
+2025-10-23 22:01:19 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Studio Ghibli'
+2025-10-23 22:02:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Toei Animation'
+2025-10-23 22:02:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'White fox'
+2025-10-23 22:02:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Studio Ghibli'
+2025-10-23 22:10:16 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Toei Animation'
+2025-10-23 22:10:16 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'White fox'
+2025-10-23 22:10:16 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Studio Ghibli'
+2025-10-23 22:12:06 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Toei Animation'
+2025-10-23 22:12:06 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'White fox'
+2025-10-23 22:12:06 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Studio Ghibli'
+2025-10-23 22:12:06 [main] WARN  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Transaction is going be rollback
+2025-10-23 22:12:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Toei Animation'
+2025-10-23 22:12:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'White fox'
+2025-10-23 22:12:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository - Saving producer 'Studio Ghibli'
+2025-10-24 17:22:26 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:10:22 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:14:28 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:14:43 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Deleted producer '43' from the database
+2025-10-24 18:14:57 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:15:51 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Deleted producer '47' from the database
+2025-10-24 18:15:56 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:29:15 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:50:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Save Producer 'Producer(id=null, name=Foxkids)'
+2025-10-24 18:51:02 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 18:51:55 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Deleted producer '1' from the database
+2025-10-24 18:52:00 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 19:28:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 19:28:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by id '48'
+2025-10-24 19:30:17 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by id '48'
+2025-10-24 19:30:29 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Updating producer 'Producer(id=48, name=FoxKids)'
+2025-10-24 19:30:36 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-24 19:31:27 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by id '99'
+2025-10-25 18:25:01 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
+2025-10-25 18:25:39 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-25 18:25:49 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
+2025-10-25 18:25:58 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.ProducerRepository - Finding Producer by name ''
+2025-10-25 18:28:06 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
+2025-10-25 18:29:32 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Save Anime 'Anime(id=null, name=Overlord, episodes=24, producer=Producer(id=2, name=null))'
+2025-10-25 18:30:02 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
+2025-10-25 18:30:52 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Deleted anime '1' from the database
+2025-10-25 18:31:24 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by id '2'
+2025-10-25 18:33:38 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by id '2'
+2025-10-25 18:38:20 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by id '2'
+2025-10-25 18:38:33 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Updating anime 'Anime(id=2, name=OVERLORD, episodes=12, producer=Producer(id=2, name=NHK))'
+2025-10-25 18:38:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
+2025-10-25 18:41:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
