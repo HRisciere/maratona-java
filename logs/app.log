@@ -364,3 +364,4 @@ java.sql.SQLException: Access denied for user 'root'@'localhost' (using password
 2025-10-25 18:38:33 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Updating anime 'Anime(id=2, name=OVERLORD, episodes=12, producer=Producer(id=2, name=NHK))'
 2025-10-25 18:38:48 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
 2025-10-25 18:41:45 [main] INFO  academy.devdojo.maratonajava.javacore.ZZJcrud.repository.AnimeRepository - Finding Anime by name ''
+2025-10-25 19:36:50 [main] INFO  academy.devdojo.maratonajava.javacore.ZZKjunit.test.PersonServiceTest01 - Is adult? 'false'
